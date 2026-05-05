@@ -1,5 +1,7 @@
 # Blogo
 
+Done by <strong>Roshan R P - 241501504</strong> & <strong>Prabu Shankar - 241501</strong></br>
+
 A simple blog website with a clean, animated UI.
 
 ## Project Structure
